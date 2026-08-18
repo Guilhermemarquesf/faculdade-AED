@@ -1,0 +1,14 @@
+C:\ProjetoEtapa2\revisaoATP\bin\Debug\net10.0\revisaoATP.exe
+C:\ProjetoEtapa2\revisaoATP\bin\Debug\net10.0\revisaoATP.deps.json
+C:\ProjetoEtapa2\revisaoATP\bin\Debug\net10.0\revisaoATP.runtimeconfig.json
+C:\ProjetoEtapa2\revisaoATP\bin\Debug\net10.0\revisaoATP.dll
+C:\ProjetoEtapa2\revisaoATP\bin\Debug\net10.0\revisaoATP.pdb
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.AssemblyInfoInputs.cache
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.AssemblyInfo.cs
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.csproj.CoreCompileInputs.cache
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.dll
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\refint\revisaoATP.dll
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.pdb
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\revisaoATP.genruntimeconfig.cache
+C:\ProjetoEtapa2\revisaoATP\obj\Debug\net10.0\ref\revisaoATP.dll

@@ -1,0 +1,57 @@
+using System;
+
+namespace Crescente
+{
+    class Program
+    {
+        static void Main()
+        {
+           int n1, n2, n3, i;
+
+           Console.WriteLine("Digite o primeiro numero: ");
+           n1 = int.Parse(Console.ReadLine()!);
+
+           Console.WriteLine("Digite o segundo numero: ");
+           n2 = int.Parse(Console.ReadLine()!);
+
+           Console.WriteLine("Digite o terceiro numero: ");
+           n3 = int.Parse(Console.ReadLine()!);
+
+           if (n1 <= n2 && n1 <= n3) 
+            {
+                if (n2<=n3)
+                {
+                    Console.WriteLine($"\nOrdem Crescente: {n1} {n2} {n3} ");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"\n {n1} {n3} {n2}");
+            }
+
+            if (n2 <= n1 && n2 <= n3) 
+            {
+                if (n1<=n3)
+                {
+                    Console.WriteLine($"\nOrdem Crescente: {n2} {n1} {n3} ");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"\n {n1} {n3} {n2}");
+            }
+
+            if (n3 <= n1 && n3 <= n2) 
+            {
+                if (n1<=n2)
+                {
+                    Console.WriteLine($"\nOrdem Crescente: {n3} {n2} {n1} ");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"\n {n3} {n1} {n2}");
+            }
+        }                                             
+    }   
+}

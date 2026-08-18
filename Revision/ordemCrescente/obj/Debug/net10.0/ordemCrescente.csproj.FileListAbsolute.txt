@@ -1,0 +1,14 @@
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\bin\Debug\net10.0\ordemCrescente.exe
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\bin\Debug\net10.0\ordemCrescente.deps.json
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\bin\Debug\net10.0\ordemCrescente.runtimeconfig.json
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\bin\Debug\net10.0\ordemCrescente.dll
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\bin\Debug\net10.0\ordemCrescente.pdb
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.AssemblyInfoInputs.cache
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.AssemblyInfo.cs
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.csproj.CoreCompileInputs.cache
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.dll
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\refint\ordemCrescente.dll
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.pdb
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ordemCrescente.genruntimeconfig.cache
+C:\ProjetoEtapa2\revisaoATP\ordemCrescente\obj\Debug\net10.0\ref\ordemCrescente.dll

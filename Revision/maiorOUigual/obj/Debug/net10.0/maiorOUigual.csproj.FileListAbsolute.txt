@@ -1,0 +1,14 @@
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\bin\Debug\net10.0\maiorOUigual.exe
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\bin\Debug\net10.0\maiorOUigual.deps.json
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\bin\Debug\net10.0\maiorOUigual.runtimeconfig.json
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\bin\Debug\net10.0\maiorOUigual.dll
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\bin\Debug\net10.0\maiorOUigual.pdb
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.AssemblyInfoInputs.cache
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.AssemblyInfo.cs
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.csproj.CoreCompileInputs.cache
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.dll
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\refint\maiorOUigual.dll
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.pdb
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\maiorOUigual.genruntimeconfig.cache
+C:\ProjetoEtapa2\revisaoATP\maiorOUigual\obj\Debug\net10.0\ref\maiorOUigual.dll
