@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetoEtapa2\\revisaoATP\\SomaCarac\\SomaCarac.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaCarac\\SomaCarac.csproj",
       "projectName": "SomaCarac",
-      "projectPath": "C:\\ProjetoEtapa2\\revisaoATP\\SomaCarac\\SomaCarac.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaCarac\\SomaCarac.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetoEtapa2\\revisaoATP\\SomaCarac\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaCarac\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

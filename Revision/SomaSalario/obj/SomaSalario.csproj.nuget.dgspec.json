@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetoEtapa2\\revisaoATP\\SomaSalario\\SomaSalario.csproj": {}
+    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaSalario\\SomaSalario.csproj": {}
   },
   "projects": {
-    "C:\\ProjetoEtapa2\\revisaoATP\\SomaSalario\\SomaSalario.csproj": {
+    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaSalario\\SomaSalario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetoEtapa2\\revisaoATP\\SomaSalario\\SomaSalario.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaSalario\\SomaSalario.csproj",
         "projectName": "SomaSalario",
-        "projectPath": "C:\\ProjetoEtapa2\\revisaoATP\\SomaSalario\\SomaSalario.csproj",
+        "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaSalario\\SomaSalario.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetoEtapa2\\revisaoATP\\SomaSalario\\obj\\",
+        "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\SomaSalario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

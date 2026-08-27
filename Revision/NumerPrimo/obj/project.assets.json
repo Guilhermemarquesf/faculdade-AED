@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetoEtapa2\\revisaoATP\\NumerPrimo\\NumerPrimo.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\NumerPrimo\\NumerPrimo.csproj",
       "projectName": "NumerPrimo",
-      "projectPath": "C:\\ProjetoEtapa2\\revisaoATP\\NumerPrimo\\NumerPrimo.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\NumerPrimo\\NumerPrimo.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetoEtapa2\\revisaoATP\\NumerPrimo\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Revision\\NumerPrimo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

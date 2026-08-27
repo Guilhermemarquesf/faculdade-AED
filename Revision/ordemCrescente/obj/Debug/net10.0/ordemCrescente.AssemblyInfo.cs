@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ordemCrescente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0149b215a02f603292b189d28a2fcd70ae18dc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ordemCrescente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ordemCrescente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

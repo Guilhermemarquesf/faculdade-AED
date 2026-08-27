@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\faculdadeEtapa2\\vetores\\vetor3\\vetor3.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor3\\vetor3.csproj",
       "projectName": "vetor3",
-      "projectPath": "C:\\faculdadeEtapa2\\vetores\\vetor3\\vetor3.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor3\\vetor3.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\faculdadeEtapa2\\vetores\\vetor3\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
