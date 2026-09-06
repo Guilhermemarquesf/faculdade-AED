@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor6\\vetor6.csproj": {}
+    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor7\\vetor7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor6\\vetor6.csproj": {
+    "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor7\\vetor7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor6\\vetor6.csproj",
-        "projectName": "vetor6",
-        "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor6\\vetor6.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor7\\vetor7.csproj",
+        "projectName": "vetor7",
+        "projectPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor7\\vetor7.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor6\\obj\\",
+        "outputPath": "C:\\Users\\guilh\\OneDrive\\Imagens\\Área de Trabalho\\repositorios\\faculdade-AED\\Vetores\\vetor7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
