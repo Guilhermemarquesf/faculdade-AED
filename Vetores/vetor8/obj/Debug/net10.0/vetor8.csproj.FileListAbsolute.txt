@@ -1,0 +1,14 @@
+C:\faculdadeEtapa2\vetores\vetor8\bin\Debug\net10.0\vetor8.exe
+C:\faculdadeEtapa2\vetores\vetor8\bin\Debug\net10.0\vetor8.deps.json
+C:\faculdadeEtapa2\vetores\vetor8\bin\Debug\net10.0\vetor8.runtimeconfig.json
+C:\faculdadeEtapa2\vetores\vetor8\bin\Debug\net10.0\vetor8.dll
+C:\faculdadeEtapa2\vetores\vetor8\bin\Debug\net10.0\vetor8.pdb
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.GeneratedMSBuildEditorConfig.editorconfig
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.AssemblyInfoInputs.cache
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.AssemblyInfo.cs
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.csproj.CoreCompileInputs.cache
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.dll
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\refint\vetor8.dll
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.pdb
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\vetor8.genruntimeconfig.cache
+C:\faculdadeEtapa2\vetores\vetor8\obj\Debug\net10.0\ref\vetor8.dll
