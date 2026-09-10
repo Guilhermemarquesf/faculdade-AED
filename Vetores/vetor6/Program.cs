@@ -10,7 +10,7 @@ namespace vetor6
            int resultado;
 
            Console.WriteLine("Digite um numero:");
-           n = int.Parse(Console.ReadLine());
+           n = int.Parse(Console.ReadLine()!);
 
            resultado = triplo(n);
 

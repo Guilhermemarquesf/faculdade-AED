@@ -1,35 +1,34 @@
 ﻿using System;
 
-namespace vetores 
+namespace vetores
 {
     class Program
     {
-        static int main()
+        static void Main()
         {
-           int Fat = 1;
-           int n;
-           
-           Console.WriteLine("n = ");
-           n = int.Parse(Console.ReadLine()!);
+            int fat = 1;
+            int n;
 
-           Fat = CalcFat(n);
+            Console.WriteLine("n = ");
+            n = int.Parse(Console.ReadLine()!);
 
-           Console.WriteLine($"Fatorial = {fat}");
+            fat = CalcFat(n);
 
-           Console.ReadLine();
+            Console.WriteLine($"Fatorial = {fat}");
 
-           static int CalcFat(int x)
-           {
-                int Result = 1;
+            Console.ReadLine();
+        }
 
-                for (int i = 1; i <= x; i++)
-                    result = 1;
+        static int CalcFat(int x)
+        {
+            int result = 1;
 
-                return Result;    
-           }
+            for (int i = 1; i <= x; i++)
+            {
+                result *= i;
+            }
 
-
-
-        }                                             
+            return result;
+        }
     }
 }

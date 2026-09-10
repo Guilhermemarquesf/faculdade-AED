@@ -20,8 +20,6 @@ O projeto está organizado nas seguintes pastas de acordo com os conteúdos estu
 ## 🛠️ Tecnologias Utilizadas
 
 * **C#** (.NET)
-* **HTML5**
-* **JavaScript**
 
 ---
 

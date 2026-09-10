@@ -1,53 +1,51 @@
 ﻿using System;
 
-namespace veetor2
+namespace vetor2
 {
     class Program
     {
         static void Main()
         {
-           double a, b, c;
-           double Delta;
-           double CalcDelta ;
+            double a, b, c;
+            double delta;
+            double r1 = 0, r2 = 0;
 
-           Console.WriteLine("");
-           Console.WriteLine("");
-           Console.WriteLine("");
+            Console.Write("Digite o valor de a: ");
+            a = double.Parse(Console.ReadLine()!);
 
+            Console.Write("Digite o valor de b: ");
+            b = double.Parse(Console.ReadLine()!);
 
+            Console.Write("Digite o valor de c: ");
+            c = double.Parse(Console.ReadLine()!);
 
+            delta = CalcDelta(a, b, c);
 
+            Console.WriteLine($"\nDelta = {delta}");
 
+            if (delta < 0)
+            {
+                Console.WriteLine("\nNao existem raizes reais...");
+            }
+            else
+            {
+                CalcRaizes(a, b, delta, out r1, out r2);
+                Console.WriteLine($"Raiz 1 = {r1}");
+                Console.WriteLine($"Raiz 2 = {r2}");
+            }
 
-           Delta = CalcDelta(a, b, c);
-
-           Console.WriteLine($"\n Delta = {Delta}");
-
-           if (Delta < 0)
-           {
-                Console.Write("\n Nao existem Raizes Reais...");
-           }
-           else 
-           {
-            CalcRaizes(a, b, Delta, ref R1, ref R2); 
-            Console.WriteLine($"Raiz 1 = {R1}");
-            Console.WriteLine($"Raiz 2 = {R2}");
-           }
-
-           Console.ReadKey();
-        }                             
+            Console.ReadKey();
+        }
 
         static double CalcDelta(double a, double b, double c)
         {
             return Math.Pow(b, 2) - 4 * a * c;
-
-        }                
-
-        static void CalcRaizes(double a, double b, double Delta, ref double R1, double R2);
-        {
-            R1 = (-b + Math.Sqrt(Delta)) / (2 * a);
-            R2 = (-b + Math.Sqrt(Delta)) / (2 * a);
         }
-#andregion        
+
+        static void CalcRaizes(double a, double b, double delta, out double r1, out double r2)
+        {
+            r1 = (-b + Math.Sqrt(delta)) / (2 * a);
+            r2 = (-b - Math.Sqrt(delta)) / (2 * a);
+        }
     }
 }

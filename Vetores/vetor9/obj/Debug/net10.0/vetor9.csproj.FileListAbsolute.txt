@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\bin\Debug\net10.0\vetor9.exe
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\bin\Debug\net10.0\vetor9.deps.json
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\bin\Debug\net10.0\vetor9.runtimeconfig.json
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\bin\Debug\net10.0\vetor9.dll
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\bin\Debug\net10.0\vetor9.pdb
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.sourcelink.json
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.dll
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\refint\vetor9.dll
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.pdb
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\vetor9.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Imagens\Área de Trabalho\repositorios\faculdade-AED\Vetores\vetor9\obj\Debug\net10.0\ref\vetor9.dll

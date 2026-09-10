@@ -1,30 +1,30 @@
 ﻿using System;
 
-namespace vetor 
+namespace vetor
 {
     class Program
     {
         static void Main()
         {
-           int n;
+            int n;
 
-           Console.WriteLine("Digite um valor: ");
-           n = int.Parse(Console.readLine()!)
+            Console.WriteLine("Digite um valor: ");
+            n = int.Parse(Console.ReadLine()!);
 
-           Imprime ("Valor de n é, 1, n");
+            Imprime("Valor de n é", 1, n);
 
-           Console.ReadKey();
+            Console.ReadKey();
+        }
 
-           static void Imprime(string Texto, int Nr, int QtdeVezes)
-           {
-                if (Nr <= QtdeVezes)
-                {
-                    Console.WriteLine($"{Texto} {Nr}");
-                    Nr++;
+        static void Imprime(string texto, int nr, int qtdeVezes)
+        {
+            if (nr <= qtdeVezes)
+            {
+                Console.WriteLine($"{texto} {nr}");
+                nr++;
 
-                    Imprime(Texto, Nr, QtdeVezes);
-                }
-           }
-        }                                             
+                Imprime(texto, nr, qtdeVezes);
+            }
+        }
     }
 }
