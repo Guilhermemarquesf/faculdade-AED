@@ -6,8 +6,8 @@ namespace vetor
     {
         static void Main()
         {
-           int x, 
-           int soma = 0, 
+           int x;
+           int soma = 0;
            int result;
 
            Console.WriteLIne("x = ");
