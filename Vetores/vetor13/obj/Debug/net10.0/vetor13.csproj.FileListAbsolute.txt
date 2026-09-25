@@ -1,0 +1,14 @@
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.GeneratedMSBuildEditorConfig.editorconfig
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.AssemblyInfoInputs.cache
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.AssemblyInfo.cs
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.csproj.CoreCompileInputs.cache
+C:\faculdadeEtapa2\vetores\vetor13\bin\Debug\net10.0\vetor13.exe
+C:\faculdadeEtapa2\vetores\vetor13\bin\Debug\net10.0\vetor13.deps.json
+C:\faculdadeEtapa2\vetores\vetor13\bin\Debug\net10.0\vetor13.runtimeconfig.json
+C:\faculdadeEtapa2\vetores\vetor13\bin\Debug\net10.0\vetor13.dll
+C:\faculdadeEtapa2\vetores\vetor13\bin\Debug\net10.0\vetor13.pdb
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.dll
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\refint\vetor13.dll
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.pdb
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\vetor13.genruntimeconfig.cache
+C:\faculdadeEtapa2\vetores\vetor13\obj\Debug\net10.0\ref\vetor13.dll
